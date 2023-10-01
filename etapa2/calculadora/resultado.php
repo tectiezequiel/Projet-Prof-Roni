@@ -43,7 +43,12 @@
     
 <br>
     <a href="calculadora.php" rel="prev"><img src="../etapa2/imagens/voltar.png" alt=""></a>
+<footer>
+<br>
+    <a href="https://tectiezequiel.github.io/Projet-Prof-Roni/" rel="prev" target="self"> voltar</a>
+    <br>
 
+</footer>
 
 </body>
 </html>

@@ -28,7 +28,9 @@
 <input type="submit" valor="calcular">   
 </main>
 <footer>
-<a href="https://tectiezequiel.github.io/html/moldes/menu2.1/l" rel="prev" target="self"> voltar</a>
+<br>
+    <a href="https://tectiezequiel.github.io/Projet-Prof-Roni/" rel="prev" target="self"> voltar</a>
+    <br>
 </footer>
 
 </body>

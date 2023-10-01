@@ -27,6 +27,7 @@
    </form>
 </section>
 <br>
-<a href="https://tectiezequiel.github.io/Projet-Prof-Roni/"> voltar</a>
+    <a href="https://tectiezequiel.github.io/Projet-Prof-Roni/" rel="prev" target="self"> voltar</a>
+    <br>
 </body>
 </html>

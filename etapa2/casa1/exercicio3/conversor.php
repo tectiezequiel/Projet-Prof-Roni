@@ -164,6 +164,7 @@ if(isset($_POST['btn']))
 
     <br>
     <a href="https://tectiezequiel.github.io/Projet-Prof-Roni/" rel="prev" target="self"> voltar</a>
+    <br>
 </body>
 </html>
 
